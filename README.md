@@ -1,3 +1,3 @@
-# img-roedeercuco-website
+# Roedeercuco-website
 
-This repo stores all images used in my personal website.
+This repo stores all multimedia resources in my personal website.
